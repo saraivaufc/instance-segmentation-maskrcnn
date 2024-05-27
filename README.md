@@ -9,6 +9,7 @@ The model generates bounding boxes and segmentation masks for each instance of
 an object in the image. It's based on Feature Pyramid Network (FPN) and a 
 ResNet50 backbone.
 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saraivaufc/instance-segmentation-of-center-pivot-irrigation-systems/blob/main/MaskRCNN.ipynb)
 
 
